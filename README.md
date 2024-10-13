@@ -4,7 +4,7 @@ Personal finance management spring boot project
 ## Prerequisites
 
 - Java JDK 17 or higher
-- Maven 3.6.0 or higher
+- Maven 3.3.X or higher
 - An IDE (like STS or IntelliJ or Eclipse)
 
 ## Installation
